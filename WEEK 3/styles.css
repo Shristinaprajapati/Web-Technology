@@ -7,20 +7,16 @@ h1,h2,h3,h4{
     font-size:15px;
 }
 body{
-    background-color:rgb(170, 212, 212);
+    background-color:#d3ad89
  }
-*{
-    color: rgb(1, 1, 11);
-    font-size: 15px;
-    font-family: 'Times New Roman', Times, serif
- }
+
 p {
     text-align: left;
     color: rgb(15, 2, 24);
+    margin: 45px;
  } 
 ul{
-    border: 1px solid rgb(45, 10, 162);
-    color:rgb(15, 15, 171)
+    
     font-size: 12px;
  }
  #header
@@ -31,4 +27,22 @@ ul{
  .orange1,.orange2{
     color: orange;
     font-size:small;
+ }
+img{
+    border-radius: 50%;
+    width: auto;
+    height: 500px;
+    background-size: cover;
+
+    display: block;
+    margin-left: auto;
+    
+    
+}
+*{
+    color: rgb(1, 1, 11);
+    margin: 45px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif
+    
  }
